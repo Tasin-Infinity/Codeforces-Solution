@@ -31,6 +31,6 @@ int main()
         cout<<"Rajesh";
 
     if(res == 5)
-        cout<<"Howard";
+        printf("Howard");
 
 }
